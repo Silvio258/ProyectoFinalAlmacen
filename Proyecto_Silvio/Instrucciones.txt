@@ -1,0 +1,25 @@
+IMPORTAR DATOS DEL CSV Y CREACIÓN DE LA BASE STAGE
+-Entrar a SQL y ejecutar el .sql "BaseCovid19CreateTables" que se encuentra en el folder
+-Dar click derecho en la base "Covid19Stage", seleccionar "Tasks" y dentro de este "Import Data". Cuando abra el wizard dar next.
+-En data source seleccionar el tipo de archivo flat file y buscar el CSV con los datos en browse. Dar Next hasta llegar a la siguiente pantalla.
+-Seleccionar el destino Microsoft OLE DB Provider for SQL. (Por defecto se deberia poner el server, usar windows authentication y la base) Dar Next
+-En la pantalla "Select source tables and views", en  destination cambiar el nombre de la tabla a 
+[dbo].[StagingCovid19] (copiar y pegar el nombre) y Dar Next
+-Dar Finish
+-Verificar que los datos se hayan transferido correctamente: 
+select * from [Covid19Stage].[dbo].[StagingCovid19]
+
+TRANSFORMAR DATOS
+-Entrar al folder "Proyecto_Silvio" y en la ruta de archivo escribir "cmd" para que se abra el commmand prompt y ahi escribir "code ." de esta manera el codigo se abrira con todos los archivos como un proyecto
+-Ejecutar el .py "etl", este realiza las transformaciones
+-Verificar que los datos se hayan transformado: 
+select * from [Covid19Stage].[dbo].[TransformedStagingCovid19]
+
+MODELO DIMENSIONAL
+-Entrar a SQL y ejecutar el .sql "BaseCovid19CreateDim" que se encuentra en el folder
+-Ejecutar el .py "dim", este realiza la extracción de datos y la carga hacia el modelo dimensional
+-Verificar que los datos se ingresaran de la manera correcta:
+select * from [Covid19Dimensional].dbo.DimDate
+select * from [Covid19Dimensional].dbo.DimOutcome
+select * from [Covid19Dimensional].dbo.DimAgeGroup
+select * from [Covid19Dimensional].dbo.FactCovid19Report

@@ -1,0 +1,739 @@
+2024-06-21 19:44:35,312:ERROR:Error loading data: name 'source_server' is not defined
+2024-06-21 19:49:26,439:ERROR:Error loading data: [Errno 2] No such file or directory: 'ScripsBaseCovid19.sql'
+2024-06-21 19:51:40,980:ERROR:Error loading data: (pyodbc.InterfaceError) ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060)')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-06-21 19:54:47,731:ERROR:Error loading data: (pyodbc.InterfaceError) ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060)')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-06-21 19:55:44,687:ERROR:Error loading data: (pyodbc.InterfaceError) ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060)')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-06-21 19:57:23,710:ERROR:Error loading data: (pyodbc.InterfaceError) ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060)')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-06-21 19:58:29,943:ERROR:Error loading data: (pyodbc.InterfaceError) ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'DESKTOP-I2D56UT\\silvi\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "StagingCovid19" requested by the login. The login failed. (4060)')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-06-21 19:59:50,207:INFO:Data loaded successfully
+2024-06-21 20:00:34,841:INFO:Data loaded successfully
+2024-06-22 18:09:11,150:ERROR:Error loading data: [Errno 2] No such file or directory: 'BaseCovid19.sqlSelect'
+2024-06-22 18:10:18,547:INFO:Data loaded successfully
+2024-06-22 18:11:06,534:INFO:Data loaded successfully
+2024-06-22 18:11:43,989:INFO:Data loaded successfully
+2024-06-22 18:11:43,998:ERROR:Error filling missing values: name 'col' is not defined
+2024-06-22 18:12:08,268:INFO:Data loaded successfully
+2024-06-22 18:12:08,279:ERROR:Error filling missing values: name 'col' is not defined
+2024-06-22 18:12:41,705:INFO:Data loaded successfully
+2024-06-22 18:12:41,723:ERROR:Error filling missing values: name 'float_columns' is not defined
+2024-06-22 18:13:07,283:INFO:Data loaded successfully
+2024-06-22 18:13:07,299:ERROR:Error filling missing values: 'Age-Adjusted Crude Vaccinated Ratio'
+2024-06-22 18:15:12,759:INFO:Data loaded successfully
+2024-06-22 18:18:25,985:INFO:Data loaded successfully
+2024-06-22 18:20:28,856:INFO:Data loaded successfully
+2024-06-22 18:22:04,984:INFO:Data loaded successfully
+2024-06-22 18:22:05,002:ERROR:Error filling missing values: 'Age-Adjusted Crude Vaccinated Ratio'
+2024-06-22 18:23:56,650:INFO:Data loaded successfully
+2024-06-22 18:23:56,667:ERROR:Error filling missing values: 'Age Adjusted Crude Vaccinated Ratio'
+2024-06-22 18:24:48,190:INFO:Data loaded successfully
+2024-06-22 18:24:48,202:ERROR:Error filling missing values: 'Age Adjusted Crude Vaccinated Ratio'
+2024-06-22 18:25:57,593:INFO:Data loaded successfully
+2024-06-22 18:25:57,605:ERROR:Error filling missing values: 'Age Adjusted Crude Vaccinated Ratio'
+2024-06-22 18:28:32,531:INFO:Data loaded successfully
+2024-06-22 18:28:32,541:ERROR:Error filling missing values: 'Age Adjusted Crude Vaccinated Ratio'
+2024-06-22 18:29:17,028:INFO:Data loaded successfully
+2024-06-22 18:29:17,028:ERROR:Error loading data: 'Age-Adjusted Unvaccinated Rate'
+2024-06-22 18:36:47,522:INFO:Data loaded successfully
+2024-06-22 18:42:05,860:INFO:Data loaded successfully
+2024-06-22 18:44:43,322:INFO:Data loaded successfully
+2024-06-22 18:44:43,381:ERROR:Error applying  data type transformations: could not convert string to float: ''
+2024-06-22 18:47:01,670:INFO:Data loaded successfully
+2024-06-22 18:47:16,878:INFO:Data loaded successfully
+2024-06-22 18:47:34,243:INFO:Data loaded successfully
+2024-06-22 18:49:47,527:INFO:Data loaded successfully
+2024-06-22 19:01:41,451:INFO:Data loaded successfully
+2024-06-22 19:03:10,080:INFO:Data loaded successfully
+2024-06-22 19:03:10,119:ERROR:Error applying  data type transformations: 'Age-Adjusted Unvaccinated Rate'
+2024-06-22 19:04:33,017:INFO:Data loaded successfully
+2024-06-22 19:04:33,074:ERROR:Error applying  data type transformations: 'AgeAdjusted Boosted Ratio'
+2024-06-22 19:04:53,509:INFO:Data loaded successfully
+2024-06-22 19:04:53,569:INFO:Data type transformations applied
+2024-06-22 19:05:16,875:INFO:Data loaded successfully
+2024-06-22 19:05:16,949:INFO:Data type transformations applied
+2024-06-22 19:06:25,566:INFO:Data loaded successfully
+2024-06-22 19:06:25,621:INFO:Success filling missing values
+2024-06-22 19:06:25,646:INFO:Data type transformations applied
+2024-06-22 19:16:09,061:INFO:Data loaded successfully
+2024-06-22 19:16:09,100:INFO:Success filling missing values
+2024-06-22 19:27:00,876:INFO:Data loaded successfully
+2024-06-22 19:27:00,928:INFO:Success filling missing values
+2024-06-22 19:27:00,958:INFO:Data type transformations applied
+2024-06-22 19:27:00,959:ERROR:Error deleting data: 'Engine' object has no attribute 'execute'
+2024-06-22 19:27:46,831:INFO:Data loaded successfully
+2024-06-22 19:27:46,878:INFO:Success filling missing values
+2024-06-22 19:27:46,899:INFO:Data type transformations applied
+2024-06-22 19:27:46,900:ERROR:Error deleting data: Not an executable object: <_io.TextIOWrapper name='BaseCovid19Delete.sql' mode='r' encoding='cp1252'>
+2024-06-22 19:28:21,230:INFO:Data loaded successfully
+2024-06-22 19:28:21,331:INFO:Success filling missing values
+2024-06-22 19:28:21,390:INFO:Data type transformations applied
+2024-06-22 19:28:21,402:ERROR:Error deleting data: Not an executable object: <_io.TextIOWrapper name='BaseCovid19Delete.sql' mode='r' encoding='cp1252'>
+2024-06-22 19:29:42,155:INFO:Data loaded successfully
+2024-06-22 19:29:42,206:INFO:Success filling missing values
+2024-06-22 19:29:42,235:INFO:Data type transformations applied
+2024-06-22 19:29:42,236:ERROR:Error deleting data: Not an executable object: 'DELETE FROM TransformedStagingCovid19'
+2024-06-22 19:35:46,209:INFO:Data loaded successfully
+2024-06-22 19:35:46,270:INFO:Success filling missing values
+2024-06-22 19:35:46,306:INFO:Data type transformations applied
+2024-06-22 19:35:46,307:ERROR:Error deleting data: 'Engine' object has no attribute 'execute'
+2024-06-22 19:37:15,798:INFO:Data loaded successfully
+2024-06-22 19:37:15,847:INFO:Success filling missing values
+2024-06-22 19:37:15,870:INFO:Data type transformations applied
+2024-06-22 19:37:17,482:ERROR:Error saving data to database: (pyodbc.DataError) ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+[SQL: INSERT INTO [TransformedStagingCovid19] ([Outcome], [Week End], [Age Group], [Unvaccinated Rate], [Vaccinated Rate], [Boosted Rate], [Crude Vaccinated Ratio], [Crude Boosted Ratio], [Age-Adjusted Unvaccinated Rate], [Age-Adjusted Vaccinated Rate], [A ... 6603 characters truncated ... ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Deaths', datetime.datetime(2022, 10, 1, 0, 0), 'All', 0.3, 0.1, 0.9, 3.0, 0.3, 0.4, 0.3, 0.6, 1.3, 0.7, 591822, 842535, 1037067, 2, 1, 9, 999, 999, 'Deaths', datetime.datetime(2022, 7, 9, 0, 0), '0-4', 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 162642, 0, 0, 0, 0, 0, 0, 4, 'Cases', datetime.datetime(2022, 11, 12, 0, 0), '0-4', 82.4, 5.5, 0.0, 15.0, 0.0 ... 1979 parameters truncated ... 65944, 97454, 0, 0, 0, 0, 12, 17, 'Deaths', datetime.datetime(2022, 12, 10, 0, 0), 'All', 0.4, 0.1, 0.3, 4.0, 1.3, 0.3, 0.1, 0.2, 2.2, 1.5, 560620, 851689, 1039873, 2, 1, 3, 999, 999, 'Hospitalizations', datetime.datetime(2022, 12, 3, 0, 0), '12-17', 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33965, 86108, 44513, 0, 1, 0, 12, 17)]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-06-22 19:40:23,258:INFO:Data loaded successfully
+2024-06-22 19:40:23,302:INFO:Success filling missing values
+2024-06-22 19:40:23,326:INFO:Data type transformations applied
+2024-06-22 19:40:23,416:ERROR:Error saving data to database: (pyodbc.DataError) ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+[SQL: INSERT INTO [TransformedStagingCovid19] ([Outcome], [Week End], [Age Group], [Unvaccinated Rate], [Vaccinated Rate], [Boosted Rate], [Crude Vaccinated Ratio], [Crude Boosted Ratio], [Age-Adjusted Unvaccinated Rate], [Age-Adjusted Vaccinated Rate], [A ... 6603 characters truncated ... ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Deaths', datetime.datetime(2022, 10, 1, 0, 0), 'All', 0.3, 0.1, 0.9, 3.0, 0.3, 0.4, 0.3, 0.6, 1.3, 0.7, 591822, 842535, 1037067, 2, 1, 9, 999, 999, 'Deaths', datetime.datetime(2022, 7, 9, 0, 0), '0-4', 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 162642, 0, 0, 0, 0, 0, 0, 4, 'Cases', datetime.datetime(2022, 11, 12, 0, 0), '0-4', 82.4, 5.5, 0.0, 15.0, 0.0 ... 1979 parameters truncated ... 65944, 97454, 0, 0, 0, 0, 12, 17, 'Deaths', datetime.datetime(2022, 12, 10, 0, 0), 'All', 0.4, 0.1, 0.3, 4.0, 1.3, 0.3, 0.1, 0.2, 2.2, 1.5, 560620, 851689, 1039873, 2, 1, 3, 999, 999, 'Hospitalizations', datetime.datetime(2022, 12, 3, 0, 0), '12-17', 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33965, 86108, 44513, 0, 1, 0, 12, 17)]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-06-22 19:40:59,960:INFO:Data loaded successfully
+2024-06-22 19:41:00,003:INFO:Success filling missing values
+2024-06-22 19:41:00,027:INFO:Data type transformations applied
+2024-06-22 19:41:00,087:ERROR:Error saving data to database: (pyodbc.DataError) ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+[SQL: INSERT INTO [TransformedStagingCovid19] ([Outcome], [Week End], [Age Group], [Unvaccinated Rate], [Vaccinated Rate], [Boosted Rate], [Crude Vaccinated Ratio], [Crude Boosted Ratio], [Age-Adjusted Unvaccinated Rate], [Age-Adjusted Vaccinated Rate], [A ... 6603 characters truncated ... ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Deaths', datetime.datetime(2022, 10, 1, 0, 0), 'All', 0.3, 0.1, 0.9, 3.0, 0.3, 0.4, 0.3, 0.6, 1.3, 0.7, 591822, 842535, 1037067, 2, 1, 9, 999, 999, 'Deaths', datetime.datetime(2022, 7, 9, 0, 0), '0-4', 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 162642, 0, 0, 0, 0, 0, 0, 4, 'Cases', datetime.datetime(2022, 11, 12, 0, 0), '0-4', 82.4, 5.5, 0.0, 15.0, 0.0 ... 1979 parameters truncated ... 65944, 97454, 0, 0, 0, 0, 12, 17, 'Deaths', datetime.datetime(2022, 12, 10, 0, 0), 'All', 0.4, 0.1, 0.3, 4.0, 1.3, 0.3, 0.1, 0.2, 2.2, 1.5, 560620, 851689, 1039873, 2, 1, 3, 999, 999, 'Hospitalizations', datetime.datetime(2022, 12, 3, 0, 0), '12-17', 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33965, 86108, 44513, 0, 1, 0, 12, 17)]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-06-22 19:45:10,271:INFO:Data loaded successfully
+2024-06-22 19:45:10,316:INFO:Success filling missing values
+2024-06-22 19:45:10,341:INFO:Data type transformations applied
+2024-06-22 19:45:10,551:ERROR:Error saving data to database: (pyodbc.DataError) ('22003', '[22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Arithmetic overflow error converting float to data type numeric. (8115) (SQLExecDirectW); [22003] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+[SQL: INSERT INTO [TransformedStagingCovid19] ([Outcome], [Week End], [Age Group], [Unvaccinated Rate], [Vaccinated Rate], [Boosted Rate], [Crude Vaccinated Ratio], [Crude Boosted Ratio], [Age-Adjusted Unvaccinated Rate], [Age-Adjusted Vaccinated Rate], [A ... 6603 characters truncated ... ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Deaths', datetime.datetime(2022, 10, 1, 0, 0), 'All', 0.3, 0.1, 0.9, 3.0, 0.3, 0.4, 0.3, 0.6, 1.3, 0.7, 591822, 842535, 1037067, 2, 1, 9, 999, 999, 'Deaths', datetime.datetime(2022, 7, 9, 0, 0), '0-4', 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 162642, 0, 0, 0, 0, 0, 0, 4, 'Cases', datetime.datetime(2022, 11, 12, 0, 0), '0-4', 82.4, 5.5, 0.0, 15.0, 0.0 ... 1979 parameters truncated ... 65944, 97454, 0, 0, 0, 0, 12, 17, 'Deaths', datetime.datetime(2022, 12, 10, 0, 0), 'All', 0.4, 0.1, 0.3, 4.0, 1.3, 0.3, 0.1, 0.2, 2.2, 1.5, 560620, 851689, 1039873, 2, 1, 3, 999, 999, 'Hospitalizations', datetime.datetime(2022, 12, 3, 0, 0), '12-17', 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33965, 86108, 44513, 0, 1, 0, 12, 17)]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2024-06-22 19:48:50,313:INFO:Data loaded successfully
+2024-06-22 19:48:50,364:INFO:Success filling missing values
+2024-06-22 19:48:50,389:INFO:Data type transformations applied
+2024-06-22 19:48:57,412:INFO:Data saved successfully to database
+2024-06-22 20:20:25,462:INFO:Data loaded successfully
+2024-06-22 20:20:25,506:INFO:Success filling missing values
+2024-06-22 20:20:25,507:ERROR:Error calculating ratios: unsupported operand type(s) for &: 'str' and 'str'
+2024-06-22 20:21:03,167:INFO:Data loaded successfully
+2024-06-22 20:21:03,216:INFO:Success filling missing values
+2024-06-22 20:21:03,245:INFO:Data type transformations applied
+2024-06-22 20:21:03,258:ERROR:Error calculating ratios: unsupported operand type(s) for &: 'str' and 'float'
+2024-06-22 20:24:01,954:INFO:Data loaded successfully
+2024-06-22 20:24:01,999:INFO:Success filling missing values
+2024-06-22 20:24:02,020:INFO:Data type transformations applied
+2024-06-22 20:24:02,159:INFO:Success calculating ratios
+2024-06-22 20:24:09,077:INFO:Data saved successfully to database
+2024-06-22 20:41:49,102:INFO:Data loaded successfully
+2024-06-22 20:41:49,152:INFO:Success filling missing values
+2024-06-22 20:41:49,173:INFO:Data type transformations applied
+2024-06-22 20:41:49,299:INFO:Success calculating ratios
+2024-06-22 20:41:56,196:INFO:Data saved successfully to database
+2024-06-22 20:42:41,791:INFO:Data loaded successfully
+2024-06-22 20:42:41,834:INFO:Success filling missing values
+2024-06-22 20:42:41,857:INFO:Data type transformations applied
+2024-06-22 20:42:41,995:INFO:Success calculating ratios
+2024-06-22 20:42:42,647:INFO:Data saved successfully to database
+2024-06-22 20:44:48,374:INFO:Data loaded successfully
+2024-06-22 20:44:48,420:INFO:Success filling missing values
+2024-06-22 20:44:48,446:INFO:Data type transformations applied
+2024-06-22 20:44:48,606:INFO:Success calculating ratios
+2024-06-22 20:44:55,991:INFO:Data saved successfully to database
+2024-06-22 20:47:34,290:INFO:Data loaded successfully
+2024-06-22 20:47:34,338:INFO:Success filling missing values
+2024-06-22 20:47:34,366:INFO:Data type transformations applied
+2024-06-22 20:47:34,515:INFO:Success calculating ratios
+2024-06-22 20:47:41,175:INFO:Data saved successfully to database
+2024-06-22 20:49:07,699:INFO:Data loaded successfully
+2024-06-22 20:49:07,785:INFO:Success filling missing values
+2024-06-22 20:49:07,812:INFO:Data type transformations applied
+2024-06-22 20:49:07,976:INFO:Success calculating ratios
+2024-06-22 20:49:08,783:INFO:Data saved successfully to database
+2024-06-22 20:50:10,049:INFO:Data loaded successfully
+2024-06-22 20:50:10,103:INFO:Success filling missing values
+2024-06-22 20:50:10,127:INFO:Data type transformations applied
+2024-06-22 20:50:10,274:INFO:Success calculating ratios
+2024-06-22 20:50:11,251:INFO:Data saved successfully to database
+2024-06-22 20:53:04,262:INFO:Data loaded successfully
+2024-06-22 20:53:04,308:INFO:Success filling missing values
+2024-06-22 20:53:04,330:INFO:Data type transformations applied
+2024-06-22 20:53:04,464:INFO:Success calculating ratios
+2024-06-22 20:53:04,532:INFO:Data deleted successfully
+2024-06-22 20:53:11,239:INFO:Data saved successfully to database
+2024-06-22 20:54:17,112:INFO:Data loaded successfully
+2024-06-22 20:54:17,169:INFO:Success filling missing values
+2024-06-22 20:54:17,205:INFO:Data type transformations applied
+2024-06-22 20:54:17,447:INFO:Success calculating ratios
+2024-06-22 20:54:17,546:INFO:Data deleted successfully
+2024-06-22 20:54:18,502:INFO:Data saved successfully to database
+2024-06-22 20:54:56,404:INFO:Data loaded successfully
+2024-06-22 20:54:56,446:INFO:Success filling missing values
+2024-06-22 20:54:56,470:INFO:Data type transformations applied
+2024-06-22 20:54:56,623:INFO:Success calculating ratios
+2024-06-22 20:54:56,701:INFO:Data deleted successfully
+2024-06-22 20:54:57,562:INFO:Data saved successfully to database
+2024-06-22 20:58:34,908:INFO:Data loaded successfully
+2024-06-22 20:58:35,003:INFO:Success filling missing values
+2024-06-22 20:58:35,052:INFO:Data type transformations applied
+2024-06-22 20:58:35,325:INFO:Success calculating ratios
+2024-06-22 20:58:35,447:INFO:Data deleted successfully
+2024-06-22 20:58:42,896:INFO:Data saved successfully to database
+2024-06-22 20:59:51,480:INFO:Data loaded successfully
+2024-06-22 20:59:51,525:INFO:Success filling missing values
+2024-06-22 20:59:51,551:INFO:Data type transformations applied
+2024-06-22 20:59:51,708:INFO:Success calculating ratios
+2024-06-22 20:59:52,106:INFO:Data deleted successfully
+2024-06-22 20:59:52,829:INFO:Data saved successfully to database
+2024-06-22 21:03:18,280:INFO:Data loaded successfully
+2024-06-22 21:03:18,321:INFO:Success filling missing values
+2024-06-22 21:03:18,343:INFO:Data type transformations applied
+2024-06-22 21:03:18,481:INFO:Success calculating ratios
+2024-06-22 21:03:18,487:INFO:Data deleted successfully
+2024-06-22 21:03:19,131:INFO:Data saved successfully to database
+2024-06-22 21:03:27,682:INFO:Data loaded successfully
+2024-06-22 21:03:27,736:INFO:Success filling missing values
+2024-06-22 21:03:27,772:INFO:Data type transformations applied
+2024-06-22 21:03:27,993:INFO:Success calculating ratios
+2024-06-22 21:03:28,042:INFO:Data deleted successfully
+2024-06-22 21:03:28,763:INFO:Data saved successfully to database
+2024-06-22 21:03:41,575:INFO:Data loaded successfully
+2024-06-22 21:03:41,620:INFO:Success filling missing values
+2024-06-22 21:03:41,690:INFO:Data type transformations applied
+2024-06-22 21:03:41,850:INFO:Success calculating ratios
+2024-06-22 21:03:41,897:INFO:Data deleted successfully
+2024-06-22 21:03:42,535:INFO:Data saved successfully to database
+2024-06-28 17:30:17,926:INFO:Data loaded successfully
+2024-06-28 17:33:08,470:INFO:Data loaded successfully
+2024-06-28 17:33:08,508:ERROR:Error loading data: 'Age-Adjusted Vaccinated Ration'
+2024-06-28 17:33:44,812:INFO:Data loaded successfully
+2024-06-28 17:33:44,881:INFO:Success filling missing values
+2024-06-28 17:33:44,915:INFO:Data type transformations applied
+2024-06-28 17:33:45,067:INFO:Success calculating ratios
+2024-06-28 17:33:45,079:INFO:Data deleted successfully
+2024-06-28 17:33:50,476:INFO:Data saved successfully to database
+2024-06-28 17:34:48,382:INFO:Data loaded successfully
+2024-06-28 17:34:48,433:INFO:Success filling missing values
+2024-06-28 17:34:48,454:INFO:Data type transformations applied
+2024-06-28 17:34:48,604:INFO:Success calculating ratios
+2024-06-28 17:34:48,641:INFO:Data deleted successfully
+2024-06-28 17:34:49,248:INFO:Data saved successfully to database
+2024-06-28 17:38:39,187:INFO:Data loaded successfully
+2024-06-28 17:38:39,243:INFO:Success filling missing values
+2024-06-28 17:38:39,262:INFO:Data type transformations applied
+2024-06-28 17:38:39,391:INFO:Success calculating ratios
+2024-06-28 17:38:39,418:INFO:Data deleted successfully
+2024-06-28 17:38:43,879:INFO:Data saved successfully to database
+2024-06-28 17:40:17,622:INFO:Data loaded successfully
+2024-06-28 17:40:17,699:INFO:Success filling missing values
+2024-06-28 17:40:17,732:INFO:Data type transformations applied
+2024-06-28 17:40:17,878:INFO:Success calculating ratios
+2024-06-28 17:40:17,903:INFO:Data deleted successfully
+2024-06-28 17:40:18,711:INFO:Data saved successfully to database
+2024-06-28 18:06:16,296:INFO:Data loaded successfully
+2024-06-28 18:06:16,353:INFO:Success filling missing values
+2024-06-28 18:06:16,377:INFO:Data type transformations applied
+2024-06-28 18:06:16,519:INFO:Success calculating ratios
+2024-06-28 18:06:16,525:INFO:Data deleted successfully
+2024-06-28 18:06:22,115:INFO:Data saved successfully to database
+2024-06-28 19:39:08,515:INFO:Data loaded successfully
+2024-06-28 19:39:08,576:INFO:Success filling missing values
+2024-06-28 19:39:08,603:INFO:Data type transformations applied
+2024-06-28 19:39:08,780:INFO:Success calculating ratios
+2024-06-28 19:39:08,788:INFO:Data deleted successfully
+2024-06-28 19:39:14,971:INFO:Data saved successfully to database
+2024-06-29 10:35:09,252:INFO:Data loaded successfully
+2024-06-29 10:35:09,322:INFO:Success filling missing values
+2024-06-29 10:35:09,348:INFO:Data type transformations applied
+2024-06-29 10:35:09,519:INFO:Success calculating ratios
+2024-06-29 10:35:09,551:INFO:Data deleted successfully
+2024-06-29 10:35:15,043:INFO:Data saved successfully to database
+2024-06-29 11:21:41,125:INFO:Data loaded successfully
+2024-06-29 11:21:41,196:INFO:Success filling missing values
+2024-06-29 11:21:41,223:INFO:Data type transformations applied
+2024-06-29 11:21:41,370:INFO:Success calculating ratios
+2024-06-29 11:21:41,373:INFO:Data deleted successfully
+2024-06-29 11:21:47,019:INFO:Data saved successfully to database
+2024-06-29 11:31:41,903:INFO:Data loaded successfully
+2024-06-29 11:31:42,012:INFO:Success filling missing values
+2024-06-29 11:31:42,039:INFO:Data type transformations applied
+2024-06-29 11:31:42,187:INFO:Success calculating ratios
+2024-06-29 11:31:42,192:INFO:Data deleted successfully
+2024-06-29 11:31:42,965:INFO:Data saved successfully to database
+2024-06-29 11:34:53,302:INFO:Data loaded successfully
+2024-06-29 11:34:53,363:INFO:Success filling missing values
+2024-06-29 11:34:53,387:INFO:Data type transformations applied
+2024-06-29 11:34:53,581:INFO:Success calculating ratios
+2024-06-29 11:34:53,586:INFO:Data deleted successfully
+2024-06-29 11:34:58,518:INFO:Data saved successfully to database
+2024-06-29 13:17:43,580:INFO:Data loaded successfully
+2024-06-29 13:19:14,902:INFO:Data loaded successfully
+2024-06-29 13:19:37,485:INFO:Data loaded successfully
+2024-06-29 13:24:12,442:ERROR:Error loading data: [Errno 2] No such file or directory: 'ExtractDimOutcome.sql'
+2024-06-29 13:24:30,746:INFO:Data loaded successfully
+2024-06-29 13:27:23,272:INFO:Data loaded successfully
+2024-06-29 14:04:45,222:INFO:Dimensional data loaded successfully
+2024-06-29 14:04:45,425:INFO:Data loaded to staging table successfully
+2024-06-29 14:05:18,020:INFO:Dimensional data loaded successfully
+2024-06-29 14:05:18,072:INFO:Data loaded to staging table successfully
+2024-06-29 14:11:46,982:INFO:Dimensional data loaded successfully
+2024-06-29 14:11:47,084:INFO:Dimensional data deleted successfully
+2024-06-29 14:11:47,144:INFO:Dates loaded successfully
+2024-06-29 14:11:47,160:INFO:Outcome loaded successfully
+2024-06-29 14:12:09,125:INFO:Dimensional data loaded successfully
+2024-06-29 14:12:09,136:INFO:Dimensional data deleted successfully
+2024-06-29 14:12:09,149:INFO:Dates loaded successfully
+2024-06-29 14:12:09,159:INFO:Outcome loaded successfully
+2024-06-29 14:18:21,395:INFO:Dimensional data loaded successfully
+2024-06-29 14:18:21,536:ERROR:Error deleting dimensional data: (pyodbc.ProgrammingError) ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ' { { RESEED [ 1 '. (102) (SQLExecDirectW)")
+[SQL: DELETE FROM DIMDATE;
+DELETE FROM DIMOUTCOME;
+DBCC CHECKIDENT(DIMOUTCOME[ { { RESEED [ 1 ] } } ])[ WITH NO_INFOMSGS ]
+DELETE FROM DIMAGEGROUP;
+DELETE FROM FACTCOVID19REPORT;]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-06-29 14:19:25,670:INFO:Dimensional data loaded successfully
+2024-06-29 14:19:25,796:ERROR:Error deleting dimensional data: (pyodbc.ProgrammingError) ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near '<'. (102) (SQLExecDirectW)")
+[SQL: DELETE FROM DIMDATE;
+DELETE FROM DIMOUTCOME;
+DBCC CHECKIDENT (<DIMOUTCOME>, RESEED, <1>)
+DELETE FROM DIMAGEGROUP;
+DELETE FROM FACTCOVID19REPORT;]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-06-29 14:21:03,582:INFO:Dimensional data loaded successfully
+2024-06-29 14:21:03,750:INFO:Dimensional data deleted successfully
+2024-06-29 14:21:03,853:INFO:Dates loaded successfully
+2024-06-29 14:21:03,853:ERROR:Error loading outcomes: '' is not valid for if_exists
+2024-06-29 14:21:51,959:INFO:Dimensional data loaded successfully
+2024-06-29 14:21:51,976:INFO:Dimensional data deleted successfully
+2024-06-29 14:21:51,999:INFO:Dates loaded successfully
+2024-06-29 14:21:52,016:INFO:Outcome loaded successfully
+2024-06-29 14:22:04,751:INFO:Dimensional data loaded successfully
+2024-06-29 14:22:04,890:INFO:Dimensional data deleted successfully
+2024-06-29 14:22:04,981:INFO:Dates loaded successfully
+2024-06-29 14:22:04,994:INFO:Outcome loaded successfully
+2024-06-29 14:23:41,695:INFO:Dimensional data loaded successfully
+2024-06-29 14:23:41,804:INFO:Dimensional data deleted successfully
+2024-06-29 14:23:41,860:INFO:Dates loaded successfully
+2024-06-29 14:23:41,873:INFO:Outcome loaded successfully
+2024-06-29 14:24:03,916:INFO:Dimensional data loaded successfully
+2024-06-29 14:24:03,943:INFO:Dimensional data deleted successfully
+2024-06-29 14:24:03,959:INFO:Dates loaded successfully
+2024-06-29 14:24:03,968:INFO:Outcome loaded successfully
+2024-06-29 14:26:03,373:INFO:Dimensional data loaded successfully
+2024-06-29 14:26:03,477:INFO:Dimensional data deleted successfully
+2024-06-29 14:26:03,557:INFO:Dates loaded successfully
+2024-06-29 14:26:03,571:INFO:Outcome loaded successfully
+2024-06-29 14:26:03,586:INFO:Outcome loaded successfully
+2024-06-29 14:26:36,051:INFO:Dimensional data loaded successfully
+2024-06-29 14:26:36,144:INFO:Dimensional data deleted successfully
+2024-06-29 14:26:36,215:INFO:Dates loaded successfully
+2024-06-29 14:26:36,246:INFO:Outcome loaded successfully
+2024-06-29 14:26:36,265:INFO:Outcome loaded successfully
+2024-06-29 14:26:59,186:INFO:Dimensional data loaded successfully
+2024-06-29 14:26:59,199:INFO:Dimensional data deleted successfully
+2024-06-29 14:26:59,215:INFO:Dates loaded successfully
+2024-06-29 14:26:59,225:INFO:Outcome loaded successfully
+2024-06-29 14:26:59,236:INFO:Outcome loaded successfully
+2024-06-29 14:48:24,791:INFO:Dim dataframes loaded successfully
+2024-06-29 14:48:24,931:INFO:Dimensional data deleted successfully
+2024-06-29 14:48:25,006:INFO:Dates loaded successfully
+2024-06-29 14:48:25,019:INFO:Outcome loaded successfully
+2024-06-29 14:48:25,036:INFO:Ages loaded successfully
+2024-06-29 14:48:25,224:INFO:Fact dataframes loaded successfully
+2024-06-29 14:55:52,355:INFO:Dim dataframes loaded successfully
+2024-06-29 14:55:52,450:INFO:Dimensional data deleted successfully
+2024-06-29 14:55:52,525:INFO:Dates loaded successfully
+2024-06-29 14:55:52,542:INFO:Outcome loaded successfully
+2024-06-29 14:55:52,560:INFO:Ages loaded successfully
+2024-06-29 14:55:52,746:INFO:Fact dataframes loaded successfully
+2024-06-29 14:55:53,453:INFO:reports loaded successfully
+2024-06-29 14:56:27,841:INFO:Dim dataframes loaded successfully
+2024-06-29 14:56:28,025:ERROR:Error deleting dimensional data: (pyodbc.IntegrityError) ('23000', '[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The DELETE statement conflicted with the REFERENCE constraint "dateid_FK_fact". The conflict occurred in database "Covid19Dimensional", table "dbo.FactCovid19Report", column \'DateID\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)')
+[SQL: DELETE FROM DIMDATE;
+DELETE FROM DIMOUTCOME;
+DBCC CHECKIDENT ([DIMOUTCOME], RESEED, 0)
+DELETE FROM DIMAGEGROUP;
+DBCC CHECKIDENT ([DIMAGEGROUP], RESEED, 0)
+DELETE FROM FACTCOVID19REPORT;
+DBCC CHECKIDENT ([FACTCOVID19REPORT], RESEED, 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2024-06-29 14:57:01,388:INFO:Dim dataframes loaded successfully
+2024-06-29 14:57:01,466:INFO:Dimensional data deleted successfully
+2024-06-29 14:57:01,560:INFO:Dates loaded successfully
+2024-06-29 14:57:01,573:INFO:Outcome loaded successfully
+2024-06-29 14:57:01,586:INFO:Ages loaded successfully
+2024-06-29 14:57:01,758:INFO:Fact dataframes loaded successfully
+2024-06-29 14:57:02,542:INFO:reports loaded successfully
+2024-06-29 15:05:47,901:INFO:Dim dataframes loaded successfully
+2024-06-29 15:05:48,052:INFO:Dimensional data deleted successfully
+2024-06-29 15:05:48,117:INFO:Dates loaded successfully
+2024-06-29 15:05:48,130:INFO:Outcome loaded successfully
+2024-06-29 15:05:48,142:INFO:Ages loaded successfully
+2024-06-29 15:05:48,320:INFO:Fact dataframes loaded successfully
+2024-06-29 15:05:49,028:INFO:reports loaded successfully
+2024-06-29 15:12:06,534:INFO:Dim dataframes loaded successfully
+2024-06-29 15:12:06,629:INFO:Dimensional data deleted successfully
+2024-06-29 15:12:06,704:INFO:Dates loaded successfully
+2024-06-29 15:12:06,717:INFO:Outcome loaded successfully
+2024-06-29 15:12:06,726:INFO:Ages loaded successfully
+2024-06-29 15:12:06,909:INFO:Fact dataframes loaded successfully
+2024-06-29 15:12:07,665:INFO:reports loaded successfully
+2024-06-29 15:14:59,275:INFO:Dim dataframes loaded successfully
+2024-06-29 15:14:59,370:INFO:Dimensional data deleted successfully
+2024-06-29 15:14:59,458:INFO:Dates loaded successfully
+2024-06-29 15:14:59,472:INFO:Outcome loaded successfully
+2024-06-29 15:14:59,486:INFO:Ages loaded successfully
+2024-06-29 15:14:59,664:INFO:Fact dataframes loaded successfully
+2024-06-29 15:15:00,451:INFO:reports loaded successfully
+2024-06-29 15:15:13,557:INFO:Dim dataframes loaded successfully
+2024-06-29 15:15:13,590:INFO:Dimensional data deleted successfully
+2024-06-29 15:15:13,606:INFO:Dates loaded successfully
+2024-06-29 15:15:13,619:INFO:Outcome loaded successfully
+2024-06-29 15:15:13,630:INFO:Ages loaded successfully
+2024-06-29 15:15:13,827:INFO:Fact dataframes loaded successfully
+2024-06-29 15:15:14,360:INFO:reports loaded successfully
+2024-06-29 15:15:27,048:INFO:Dim dataframes loaded successfully
+2024-06-29 15:15:27,080:INFO:Dimensional data deleted successfully
+2024-06-29 15:15:27,095:INFO:Dates loaded successfully
+2024-06-29 15:15:27,106:INFO:Outcome loaded successfully
+2024-06-29 15:15:27,117:INFO:Ages loaded successfully
+2024-06-29 15:15:27,313:INFO:Fact dataframes loaded successfully
+2024-06-29 15:15:27,897:INFO:reports loaded successfully
+2024-07-05 18:21:07,508:INFO:Dim dataframes loaded successfully
+2024-07-05 18:21:07,657:INFO:Dimensional data deleted successfully
+2024-07-05 18:21:07,738:INFO:Dates loaded successfully
+2024-07-05 18:21:07,753:INFO:Outcome loaded successfully
+2024-07-05 18:21:07,765:INFO:Ages loaded successfully
+2024-07-05 18:21:07,997:INFO:Fact dataframes loaded successfully
+2024-07-05 18:21:08,826:INFO:reports loaded successfully
+2024-07-05 18:21:33,449:INFO:Dim dataframes loaded successfully
+2024-07-05 18:21:33,660:INFO:Dimensional data deleted successfully
+2024-07-05 18:21:33,751:INFO:Dates loaded successfully
+2024-07-05 18:21:33,765:INFO:Outcome loaded successfully
+2024-07-05 18:21:33,779:INFO:Ages loaded successfully
+2024-07-05 18:21:34,007:INFO:Fact dataframes loaded successfully
+2024-07-05 18:21:34,905:INFO:reports loaded successfully
+2024-07-05 18:21:43,926:INFO:Dim dataframes loaded successfully
+2024-07-05 18:21:43,966:INFO:Dimensional data deleted successfully
+2024-07-05 18:21:43,988:INFO:Dates loaded successfully
+2024-07-05 18:21:44,002:INFO:Outcome loaded successfully
+2024-07-05 18:21:44,014:INFO:Ages loaded successfully
+2024-07-05 18:21:44,234:INFO:Fact dataframes loaded successfully
+2024-07-05 18:21:44,900:INFO:reports loaded successfully
+2024-07-05 18:32:30,291:INFO:Dim dataframes loaded successfully
+2024-07-05 18:32:30,396:INFO:Dimensional data deleted successfully
+2024-07-05 18:32:30,457:INFO:Dates loaded successfully
+2024-07-05 18:32:30,478:INFO:Outcome loaded successfully
+2024-07-05 18:32:30,492:INFO:Ages loaded successfully
+2024-07-05 18:32:30,741:INFO:Fact dataframes loaded successfully
+2024-07-05 18:32:31,628:INFO:reports loaded successfully
+2024-07-05 18:36:57,191:INFO:Dim dataframes loaded successfully
+2024-07-05 18:36:57,446:INFO:Dimensional data deleted successfully
+2024-07-05 18:36:57,547:INFO:Dates loaded successfully
+2024-07-05 18:36:57,566:INFO:Outcome loaded successfully
+2024-07-05 18:36:57,585:INFO:Ages loaded successfully
+2024-07-05 18:36:57,771:INFO:Fact dataframes loaded successfully
+2024-07-05 18:36:58,587:INFO:reports loaded successfully
+2024-07-05 18:43:09,422:INFO:Dim dataframes loaded successfully
+2024-07-05 18:43:09,658:INFO:Dimensional data deleted successfully
+2024-07-05 18:43:09,734:INFO:Dates loaded successfully
+2024-07-05 18:43:09,750:INFO:Outcome loaded successfully
+2024-07-05 18:43:09,765:INFO:Ages loaded successfully
+2024-07-05 18:43:10,012:INFO:Fact dataframes loaded successfully
+2024-07-05 18:43:10,985:INFO:reports loaded successfully
+2024-07-05 18:43:19,324:INFO:Dim dataframes loaded successfully
+2024-07-05 18:43:19,480:INFO:Dimensional data deleted successfully
+2024-07-05 18:43:19,542:INFO:Dates loaded successfully
+2024-07-05 18:43:19,557:INFO:Outcome loaded successfully
+2024-07-05 18:43:19,569:INFO:Ages loaded successfully
+2024-07-05 18:43:19,791:INFO:Fact dataframes loaded successfully
+2024-07-05 18:43:20,811:INFO:reports loaded successfully
+2024-07-05 18:43:28,799:INFO:Dim dataframes loaded successfully
+2024-07-05 18:43:28,831:INFO:Dimensional data deleted successfully
+2024-07-05 18:43:28,847:INFO:Dates loaded successfully
+2024-07-05 18:43:28,856:INFO:Outcome loaded successfully
+2024-07-05 18:43:28,865:INFO:Ages loaded successfully
+2024-07-05 18:43:29,083:INFO:Fact dataframes loaded successfully
+2024-07-05 18:43:29,691:INFO:reports loaded successfully
+2024-07-05 18:44:59,034:INFO:Dim dataframes loaded successfully
+2024-07-05 18:44:59,152:INFO:Dimensional data deleted successfully
+2024-07-05 18:44:59,214:INFO:Dates loaded successfully
+2024-07-05 18:44:59,225:INFO:Outcome loaded successfully
+2024-07-05 18:44:59,239:INFO:Ages loaded successfully
+2024-07-05 18:44:59,461:INFO:Fact dataframes loaded successfully
+2024-07-05 18:45:00,430:INFO:reports loaded successfully
+2024-07-05 18:45:15,603:INFO:Dim dataframes loaded successfully
+2024-07-05 18:45:15,673:INFO:Dimensional data deleted successfully
+2024-07-05 18:45:15,689:INFO:Dates loaded successfully
+2024-07-05 18:45:15,702:INFO:Outcome loaded successfully
+2024-07-05 18:45:15,715:INFO:Ages loaded successfully
+2024-07-05 18:45:15,891:INFO:Fact dataframes loaded successfully
+2024-07-05 18:45:16,496:INFO:reports loaded successfully
+2024-07-05 18:45:25,285:INFO:Dim dataframes loaded successfully
+2024-07-05 18:45:25,480:INFO:Dimensional data deleted successfully
+2024-07-05 18:45:25,542:INFO:Dates loaded successfully
+2024-07-05 18:45:25,554:INFO:Outcome loaded successfully
+2024-07-05 18:45:25,567:INFO:Ages loaded successfully
+2024-07-05 18:45:25,749:INFO:Fact dataframes loaded successfully
+2024-07-05 18:45:26,690:INFO:reports loaded successfully
+2024-07-05 18:49:03,940:INFO:Dim dataframes loaded successfully
+2024-07-05 18:49:04,118:INFO:Dimensional data deleted successfully
+2024-07-05 18:49:04,212:INFO:Dates loaded successfully
+2024-07-05 18:49:04,234:INFO:Outcome loaded successfully
+2024-07-05 18:49:04,255:INFO:Ages loaded successfully
+2024-07-05 18:49:04,488:INFO:Fact dataframes loaded successfully
+2024-07-05 18:49:05,334:INFO:reports loaded successfully
+2024-07-05 18:51:42,565:INFO:Dim dataframes loaded successfully
+2024-07-05 18:51:42,702:INFO:Dimensional data deleted successfully
+2024-07-05 18:51:42,775:INFO:Dates loaded successfully
+2024-07-05 18:51:42,786:INFO:Outcome loaded successfully
+2024-07-05 18:51:42,800:INFO:Ages loaded successfully
+2024-07-05 18:51:43,001:INFO:Fact dataframes loaded successfully
+2024-07-05 18:51:43,792:INFO:reports loaded successfully
+2024-07-05 18:52:46,874:INFO:Dim dataframes loaded successfully
+2024-07-05 18:52:46,996:INFO:Dimensional data deleted successfully
+2024-07-05 18:52:47,080:INFO:Dates loaded successfully
+2024-07-05 18:52:47,093:ERROR:Error loading outcomes: (pyodbc.ProgrammingError) ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'index'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'index'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+[SQL: INSERT INTO [DimOutcome] ([index], [Outcome]) VALUES (?, ?), (?, ?), (?, ?)]
+[parameters: (0, 'HOSPITALIZATIONS', 1, 'CASES', 2, 'DEATHS')]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 18:54:12,856:INFO:Dim dataframes loaded successfully
+2024-07-05 18:54:12,989:INFO:Dimensional data deleted successfully
+2024-07-05 18:54:13,056:INFO:Dates loaded successfully
+2024-07-05 18:54:13,067:INFO:Outcome loaded successfully
+2024-07-05 18:54:13,081:INFO:Ages loaded successfully
+2024-07-05 18:54:13,281:INFO:Fact dataframes loaded successfully
+2024-07-05 18:54:14,063:INFO:reports loaded successfully
+2024-07-05 18:56:39,679:INFO:Dim dataframes loaded successfully
+2024-07-05 18:56:39,808:INFO:Dimensional data deleted successfully
+2024-07-05 18:56:39,893:INFO:Dates loaded successfully
+2024-07-05 18:56:39,906:INFO:Outcome loaded successfully
+2024-07-05 18:56:39,921:INFO:Ages loaded successfully
+2024-07-05 18:56:40,129:INFO:Fact dataframes loaded successfully
+2024-07-05 18:56:41,036:INFO:reports loaded successfully
+2024-07-05 18:57:49,709:INFO:Dim dataframes loaded successfully
+2024-07-05 18:57:49,814:INFO:Dimensional data deleted successfully
+2024-07-05 18:57:49,887:INFO:Dates loaded successfully
+2024-07-05 18:57:49,896:ERROR:Error loading outcomes: (pyodbc.ProgrammingError) ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'index'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'index'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+[SQL: INSERT INTO [DimOutcome] ([index], [Outcome]) VALUES (?, ?), (?, ?), (?, ?)]
+[parameters: (1, 'HOSPITALIZATIONS', 2, 'CASES', 3, 'DEATHS')]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 19:41:39,041:INFO:Dim dataframes loaded successfully
+2024-07-05 19:41:39,236:INFO:Dimensional data deleted successfully
+2024-07-05 19:41:39,334:INFO:Dates loaded successfully
+2024-07-05 19:41:39,343:ERROR:Error loading outcomes: (pyodbc.ProgrammingError) ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'index'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'index'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+[SQL: INSERT INTO [DimOutcome] ([index], [Outcome]) VALUES (?, ?), (?, ?), (?, ?)]
+[parameters: (1, 'HOSPITALIZATIONS', 2, 'CASES', 3, 'DEATHS')]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 19:45:48,719:INFO:Dim dataframes loaded successfully
+2024-07-05 19:45:48,887:INFO:Dimensional data deleted successfully
+2024-07-05 19:45:48,981:INFO:Dates loaded successfully
+2024-07-05 19:45:48,996:INFO:Outcome loaded successfully
+2024-07-05 19:45:49,010:INFO:Ages loaded successfully
+2024-07-05 19:45:49,188:INFO:Fact dataframes loaded successfully
+2024-07-05 19:45:50,071:INFO:reports loaded successfully
+2024-07-05 19:49:14,205:INFO:Dim dataframes loaded successfully
+2024-07-05 19:49:14,448:INFO:Dimensional data deleted successfully
+2024-07-05 19:49:14,555:INFO:Dates loaded successfully
+2024-07-05 19:49:14,573:INFO:Outcome loaded successfully
+2024-07-05 19:49:14,590:INFO:Ages loaded successfully
+2024-07-05 19:49:14,819:INFO:Fact dataframes loaded successfully
+2024-07-05 19:49:15,849:INFO:reports loaded successfully
+2024-07-05 19:51:34,510:INFO:Dim dataframes loaded successfully
+2024-07-05 19:51:34,728:INFO:Dimensional data deleted successfully
+2024-07-05 19:51:34,815:INFO:Dates loaded successfully
+2024-07-05 19:51:34,829:INFO:Outcome loaded successfully
+2024-07-05 19:51:34,844:INFO:Ages loaded successfully
+2024-07-05 19:51:35,008:INFO:Fact dataframes loaded successfully
+2024-07-05 19:51:36,077:INFO:reports loaded successfully
+2024-07-05 20:18:54,928:INFO:Dim dataframes loaded successfully
+2024-07-05 20:18:55,189:INFO:Dimensional data deleted successfully
+2024-07-05 20:18:55,290:INFO:Dates loaded successfully
+2024-07-05 20:18:55,307:INFO:Outcome loaded successfully
+2024-07-05 20:18:55,323:INFO:Ages loaded successfully
+2024-07-05 20:18:55,337:ERROR:Error saving fact dataframe: (pyodbc.ProgrammingError) ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'FROM'. (156) (SQLExecDirectW)")
+[SQL: SELECT DISTINCT
+T.[Unvaccinated Rate],
+T.[Vaccinated Rate],
+T.[Boosted Rate],
+T.[Crude Vaccinated Ratio],
+T.[Crude Boosted Ratio],
+T.[Age-Adjusted Unvaccinated Rate],
+T.[Age-Adjusted Vaccinated Rate],
+T.[Age-Adjusted Boosted Rate],
+T.[Age-Adjusted Vaccinated Ratio],
+T.[Age-Adjusted Boosted Ratio],
+T.[Population Unvaccinated],
+T.[Population Vaccinated],
+T.[Population Boosted],
+T.[Outcome Unvaccinated],
+T.[Outcome Vaccinated],
+T.[Outcome Boosted],
+T.[Week End],
+CASE 
+        WHEN T.Outcome = 'HOSPITALIZATIONS' THEN 1
+        WHEN T.Outcome = 'CASES' THEN 2
+        WHEN T.Outcome = 'DEATHS' THEN 3
+END AS OutcomeID,
+CASE 
+        WHEN T.AgeGroup = '0-4' THEN 1
+        WHEN T.AgeGroup = '12-17' THEN 2
+        WHEN T.AgeGroup = '18-29' THEN 3
+        WHEN T.AgeGroup = '30-49' THEN 4
+        WHEN T.AgeGroup = '50-64' THEN 5
+        WHEN T.AgeGroup = '5-11' THEN 6
+        WHEN T.AgeGroup = '65-79' THEN 7
+        WHEN T.AgeGroup = '80+' THEN 8
+        WHEN T.AgeGroup = 'ALL' THEN 9
+END AS AgeGroupID,
+FROM [dbo].[TransformedStagingCovid19] T
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 20:20:00,959:INFO:Dim dataframes loaded successfully
+2024-07-05 20:20:01,163:INFO:Dimensional data deleted successfully
+2024-07-05 20:20:01,271:INFO:Dates loaded successfully
+2024-07-05 20:20:01,289:INFO:Outcome loaded successfully
+2024-07-05 20:20:01,310:INFO:Ages loaded successfully
+2024-07-05 20:20:01,322:ERROR:Error saving fact dataframe: (pyodbc.ProgrammingError) ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'FROM'. (156) (SQLExecDirectW)")
+[SQL: SELECT DISTINCT
+T.[Unvaccinated Rate],
+T.[Vaccinated Rate],
+T.[Boosted Rate],
+T.[Crude Vaccinated Ratio],
+T.[Crude Boosted Ratio],
+T.[Age-Adjusted Unvaccinated Rate],
+T.[Age-Adjusted Vaccinated Rate],
+T.[Age-Adjusted Boosted Rate],
+T.[Age-Adjusted Vaccinated Ratio],
+T.[Age-Adjusted Boosted Ratio],
+T.[Population Unvaccinated],
+T.[Population Vaccinated],
+T.[Population Boosted],
+T.[Outcome Unvaccinated],
+T.[Outcome Vaccinated],
+T.[Outcome Boosted],
+T.[Week End],
+CASE 
+    WHEN T.Outcome = 'HOSPITALIZATIONS' THEN 1
+    WHEN T.Outcome = 'CASES' THEN 2
+    WHEN T.Outcome = 'DEATHS' THEN 3
+END AS OutcomeID,
+CASE 
+    WHEN T.AgeGroup = '0-4' THEN 1
+    WHEN T.AgeGroup = '12-17' THEN 2
+    WHEN T.AgeGroup = '18-29' THEN 3
+    WHEN T.AgeGroup = '30-49' THEN 4
+    WHEN T.AgeGroup = '50-64' THEN 5
+    WHEN T.AgeGroup = '5-11' THEN 6
+    WHEN T.AgeGroup = '65-79' THEN 7
+    WHEN T.AgeGroup = '80+' THEN 8
+    WHEN T.AgeGroup = 'ALL' THEN 9
+END AS AgeGroupID,
+FROM [dbo].[TransformedStagingCovid19] T
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 20:41:19,105:INFO:Dim dataframes loaded successfully
+2024-07-05 20:41:19,291:INFO:Dimensional data deleted successfully
+2024-07-05 20:41:19,395:INFO:Dates loaded successfully
+2024-07-05 20:41:19,411:INFO:Outcome loaded successfully
+2024-07-05 20:41:19,432:INFO:Ages loaded successfully
+2024-07-05 20:41:19,445:ERROR:Error saving fact dataframe: (pyodbc.ProgrammingError) ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AgeGroup'. (207)")
+[SQL: SELECT DISTINCT
+T.[Unvaccinated Rate],
+T.[Vaccinated Rate],
+T.[Boosted Rate],
+T.[Crude Vaccinated Ratio],
+T.[Crude Boosted Ratio],
+T.[Age-Adjusted Unvaccinated Rate],
+T.[Age-Adjusted Vaccinated Rate],
+T.[Age-Adjusted Boosted Rate],
+T.[Age-Adjusted Vaccinated Ratio],
+T.[Age-Adjusted Boosted Ratio],
+T.[Population Unvaccinated],
+T.[Population Vaccinated],
+T.[Population Boosted],
+T.[Outcome Unvaccinated],
+T.[Outcome Vaccinated],
+T.[Outcome Boosted],
+T.[Week End],
+CASE 
+    WHEN T.Outcome = 'HOSPITALIZATIONS' THEN 1
+    WHEN T.Outcome = 'CASES' THEN 2
+    WHEN T.Outcome = 'DEATHS' THEN 3
+END AS OutcomeID,
+CASE 
+    WHEN T.AgeGroup = '0-4' THEN 1
+    WHEN T.AgeGroup = '12-17' THEN 2
+    WHEN T.AgeGroup = '18-29' THEN 3
+    WHEN T.AgeGroup = '30-49' THEN 4
+    WHEN T.AgeGroup = '50-64' THEN 5
+    WHEN T.AgeGroup = '5-11' THEN 6
+    WHEN T.AgeGroup = '65-79' THEN 7
+    WHEN T.AgeGroup = '80+' THEN 8
+    WHEN T.AgeGroup = 'ALL' THEN 9
+END AS AgeGroupID
+FROM [dbo].[TransformedStagingCovid19] T
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 20:43:31,191:INFO:Dim dataframes loaded successfully
+2024-07-05 20:43:31,378:INFO:Dimensional data deleted successfully
+2024-07-05 20:43:31,481:INFO:Dates loaded successfully
+2024-07-05 20:43:31,501:INFO:Outcome loaded successfully
+2024-07-05 20:43:31,525:INFO:Ages loaded successfully
+2024-07-05 20:43:31,756:INFO:Fact dataframes loaded successfully
+2024-07-05 20:43:31,912:ERROR:Error loading reports: (pyodbc.ProgrammingError) ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'Week End'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'Week End'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)")
+[SQL: INSERT INTO [FactCovid19Report] ([ReportID], [Unvaccinated Rate], [Vaccinated Rate], [Boosted Rate], [Crude Vaccinated Ratio], [Crude Boosted Ratio], [Age-Adjusted Unvaccinated Rate], [Age-Adjusted Vaccinated Rate], [Age-Adjusted Boosted Rate], [Age- ... 6589 characters truncated ... ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?), (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 23945, 11637, 47321, 0, 0, 0, datetime.datetime(2023, 11, 18, 0, 0), 3, 8, 2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 24452, 11380, 47133, 0, 0, 0, datetime.datetime(2023, 9, 9, 0, 0), 3, 8, 3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ... 1980 parameters truncated ... 0.0, 33470, 86275, 44545, 0, 0, 0, datetime.datetime(2023, 1, 21, 0, 0), 3, 2, 103, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33518, 86264, 44538, 0, 0, 0, datetime.datetime(2023, 1, 14, 0, 0), 3, 2, 104, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 33548, 125665, 246890, 0, 0, 0, datetime.datetime(2023, 3, 25, 0, 0), 3, 5)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-07-05 20:47:19,289:INFO:Dim dataframes loaded successfully
+2024-07-05 20:47:19,468:INFO:Dimensional data deleted successfully
+2024-07-05 20:47:19,566:INFO:Dates loaded successfully
+2024-07-05 20:47:19,586:INFO:Outcome loaded successfully
+2024-07-05 20:47:19,607:INFO:Ages loaded successfully
+2024-07-05 20:47:19,843:INFO:Fact dataframes loaded successfully
+2024-07-05 20:47:20,934:INFO:reports loaded successfully
+2024-07-05 20:49:55,540:INFO:Dim dataframes loaded successfully
+2024-07-05 20:49:55,887:INFO:Dimensional data deleted successfully
+2024-07-05 20:49:55,997:INFO:Dates loaded successfully
+2024-07-05 20:49:56,017:INFO:Outcome loaded successfully
+2024-07-05 20:49:56,035:INFO:Ages loaded successfully
+2024-07-05 20:49:56,344:INFO:Fact dataframes loaded successfully
+2024-07-05 20:49:57,705:INFO:reports loaded successfully
+2024-07-08 10:23:11,991:INFO:Data loaded successfully
+2024-07-08 10:23:12,078:INFO:Success filling missing values
+2024-07-08 10:23:12,102:INFO:Data type transformations applied
+2024-07-08 10:23:12,250:INFO:Success calculating ratios
+2024-07-08 10:23:12,262:INFO:Data deleted successfully
+2024-07-08 10:23:17,990:INFO:Data saved successfully to database
+2024-07-08 10:24:06,381:INFO:Data loaded successfully
+2024-07-08 10:24:06,446:INFO:Success filling missing values
+2024-07-08 10:24:06,468:INFO:Data type transformations applied
+2024-07-08 10:24:06,623:INFO:Success calculating ratios
+2024-07-08 10:24:06,627:INFO:Data deleted successfully
+2024-07-08 10:24:11,602:INFO:Data saved successfully to database
+2024-07-08 10:29:59,741:INFO:Dim dataframes loaded successfully
+2024-07-08 10:29:59,857:INFO:Dimensional data deleted successfully
+2024-07-08 10:29:59,938:INFO:Dates loaded successfully
+2024-07-08 10:29:59,955:INFO:Outcome loaded successfully
+2024-07-08 10:29:59,972:INFO:Ages loaded successfully
+2024-07-08 10:30:00,243:INFO:Fact dataframes loaded successfully
+2024-07-08 10:30:00,955:INFO:reports loaded successfully
+2024-07-08 10:41:39,990:INFO:Data loaded successfully
+2024-07-08 10:41:40,111:INFO:Success filling missing values
+2024-07-08 10:41:40,165:INFO:Data type transformations applied
+2024-07-08 10:41:40,404:INFO:Success calculating ratios
+2024-07-08 10:41:40,436:INFO:Data deleted successfully
+2024-07-08 10:41:48,647:INFO:Data saved successfully to database
+2024-07-08 10:43:19,874:INFO:Data loaded successfully
+2024-07-08 10:43:19,947:INFO:Success filling missing values
+2024-07-08 10:43:19,972:INFO:Data type transformations applied
+2024-07-08 10:43:20,137:INFO:Success calculating ratios
+2024-07-08 10:43:20,139:INFO:Data deleted successfully
+2024-07-08 10:43:25,278:INFO:Data saved successfully to database
+2024-07-08 10:44:36,073:INFO:Dim dataframes loaded successfully
+2024-07-08 10:44:36,187:INFO:Dimensional data deleted successfully
+2024-07-08 10:44:36,254:INFO:Dates loaded successfully
+2024-07-08 10:44:36,265:INFO:Outcome loaded successfully
+2024-07-08 10:44:36,278:INFO:Ages loaded successfully
+2024-07-08 10:44:36,594:INFO:Fact dataframes loaded successfully
+2024-07-08 10:44:37,403:INFO:reports loaded successfully
